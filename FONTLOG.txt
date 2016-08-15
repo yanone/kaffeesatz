@@ -1,0 +1,58 @@
+FONTLOG for the Yanone Kaffesatz
+
+This file provides detailed information on the Yanone Kaffesatz 
+font Software.
+
+This information should be distributed along with the 
+Yanone Kaffesatz fonts and any derivative works.
+
+Basic Font Information
+
+"Yanone Kaffeesatz" was first published in 2004 and is Yanone’s first ever finished typeface. Its Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times. Lacking self confidence and knowledge about the type scene, Yanone decided to publish the family for free under a Creative Commons License. A decision that should turn out one of the best he ever made. It has been downloaded over 100,000 times to date, and you can witness Kaffeesatz use on German fresh-water gyms, Dubai mall promos and New Zealand McDonalds ads. And of course on coffee and foodstuff packaging and café design around the globe.
+
+In 2009 he reworked much of the typeface and it got published in FontShop’s FontFont Library under the new name FF Kava. You can read more about it in an extensive article by Yves Peters on FontFeed.
+
+Updated in June 2013 with Cyrillic, designed by Juan Pablo del Peral at Huerta Tipográfica.
+
+Yanone Kaffesatz is a Unicode typeface family that supports 
+languages that use the Latin and Cyrillic script and its variants, 
+and could be expanded to support other scripts.
+
+More specifically, this release supports the following Unicode
+ranges: Latin-1, Cyrillic (ISO 8859-5 Cyrillic)
+
+To contribute to the project contact Jan Gerner at post@yanone.de
+
+Source files:
+
+1. sources/Yanone-Kaffesatz-MM.glyphs (Glyphs App source file with Multiple Masters)
+
+ChangeLog
+
+August 12, 2016 v.2.000 (Cyreal)
+— Extended Cyrillic glyph set to GF Cyrillic Plus, and localised variants
+
+June 14, 2013 v.1.100 (Huerta Tipográfica)
+— Extended glyph set to GF Cyrillic Core
+
+2004 v.1.000 (Jan Gerner)
+— First release under a Creative Commons License 
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and description (D). 
+This list is in alphabetical order.
+
+N: Jan Gerner
+E: post@yanone.de
+W: www.yanone.de
+D: Original Desiger
+
+N: Huerta Tipográfica
+E: info@huertatipografica.com.ar
+W: www.huertatipografica.com.ar
+D: Cyrillic expansion to GF Cyrillic Core
+
+N: Cyreal
+E: contact at cyreal.org
+W: www.cyreal.org
+D: Cyrillic expansion to GF Cyrillic Plus
