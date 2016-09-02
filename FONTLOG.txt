@@ -31,6 +31,7 @@ ChangeLog
 
 August 12, 2016 v.2.000 (Cyreal)
 — Extended Cyrillic glyph set to GF Cyrillic Plus, and localised variants
+— Fixed vertical metrics
 
 June 14, 2013 v.1.100 (Huerta Tipográfica)
 — Extended glyph set to GF Cyrillic Core
