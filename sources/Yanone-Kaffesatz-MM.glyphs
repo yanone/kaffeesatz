@@ -1,5 +1,5 @@
 {
-.appVersion = "913";
+.appVersion = "924";
 classes = (
 {
 automatic = 1;
@@ -175,11 +175,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 963;
+value = 1063;
 },
 {
 name = winDescent;
-value = 0;
+value = 279;
 },
 {
 name = hheaAscender;
@@ -240,11 +240,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 963;
+value = 1063;
 },
 {
 name = winDescent;
-value = 0;
+value = 279;
 },
 {
 name = hheaAscender;
@@ -77740,7 +77740,7 @@ unicode = 031B;
 {
 color = 9;
 glyphname = dotbelowcomb;
-lastChange = "2016-09-09 23:41:51 +0000";
+lastChange = "2016-10-03 14:23:09 +0000";
 layers = (
 {
 anchors = (
@@ -77776,7 +77776,7 @@ position = "{140, -239}";
 components = (
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 0, -784}";
+transform = "{0.8249, 0, 0, 0.8249, 25, -646}";
 }
 );
 layerId = "113A2EC7-7A34-4A41-8395-62473D9E96C5";
