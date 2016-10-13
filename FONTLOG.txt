@@ -1,10 +1,10 @@
-FONTLOG for the Yanone Kaffesatz
+FONTLOG for the Yanone Kaffeesatz
 
 This file provides detailed information on the Yanone Kaffesatz 
 font Software.
 
 This information should be distributed along with the 
-Yanone Kaffesatz fonts and any derivative works.
+Yanone Kaffeesatz fonts and any derivative works.
 
 Basic Font Information
 
@@ -14,7 +14,7 @@ In 2009 he reworked much of the typeface and it got published in FontShop’s Fo
 
 Updated in June 2013 with Cyrillic, designed by Juan Pablo del Peral at Huerta Tipográfica.
 
-Yanone Kaffesatz is a Unicode typeface family that supports 
+Yanone Kaffeesatz is a Unicode typeface family that supports 
 languages that use the Latin and Cyrillic script and its variants, 
 and could be expanded to support other scripts.
 
@@ -25,7 +25,7 @@ To contribute to the project contact Jan Gerner at post@yanone.de
 
 Source files:
 
-1. sources/Yanone-Kaffesatz-MM.glyphs (Glyphs App source file with Multiple Masters)
+1. sources/Yanone-Kaffeesatz-MM.glyphs (Glyphs App source file with Multiple Masters)
 
 ChangeLog
 
