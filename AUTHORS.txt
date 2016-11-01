@@ -9,5 +9,3 @@
 Jan Gerner <http://www.yanone.de>
 Huerta Tipográfica <info@huertatipografica.com.ar>
 Cyreal <contact@cyreal.org>
-
-
