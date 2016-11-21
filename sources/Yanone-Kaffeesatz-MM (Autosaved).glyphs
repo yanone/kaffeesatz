@@ -34542,16 +34542,17 @@ name = "Ge-cy";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 61, 200}";
+transform = "{1, 0, 0, 1, 47, 200}";
 }
 );
 layerId = "113A2EC7-7A34-4A41-8395-62473D9E96C5";
-width = 307;
+width = 293;
 }
 );
 leftKerningGroup = H;
 rightKerningGroup = "Ge-cy";
 unicode = 0403;
+changeCount = 2;
 },
 {
 color = 4;
@@ -36823,16 +36824,17 @@ name = "Ii-cy";
 },
 {
 name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 67, 200}";
+transform = "{1, 0, 0, 1, 53, 200}";
 }
 );
 layerId = "113A2EC7-7A34-4A41-8395-62473D9E96C5";
-width = 425;
+width = 397;
 }
 );
 leftKerningGroup = H;
 rightKerningGroup = H;
 unicode = 0419;
+changeCount = 2;
 },
 {
 color = 4;
@@ -36885,16 +36887,17 @@ name = "Ii-cy";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 90, 200}";
+transform = "{1, 0, 0, 1, 76, 200}";
 }
 );
 layerId = "113A2EC7-7A34-4A41-8395-62473D9E96C5";
-width = 425;
+width = 397;
 }
 );
 leftKerningGroup = H;
 rightKerningGroup = H;
 unicode = 040D;
+changeCount = 2;
 },
 {
 color = 4;
@@ -37561,16 +37564,17 @@ name = "Ka-cy";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 79, 200}";
+transform = "{1, 0, 0, 1, 65, 200}";
 }
 );
 layerId = "113A2EC7-7A34-4A41-8395-62473D9E96C5";
-width = 399;
+width = 385;
 }
 );
 leftKerningGroup = H;
 rightKerningGroup = K;
 unicode = 040C;
+changeCount = 2;
 },
 {
 color = 4;
