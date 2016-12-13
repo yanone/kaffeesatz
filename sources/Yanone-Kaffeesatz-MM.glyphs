@@ -1,5 +1,5 @@
 {
-.appVersion = "939";
+.appVersion = "948";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2004-2010, Jan Gerner and Yanone Kaffeesatz Project Authors";
+copyright = "Copyright 2010, The Yanone Kaffeesatz Project Authors (post@yanone.de)";
 customParameters = (
 {
 name = vendorID;
