@@ -20,6 +20,8 @@ do
 	gftools fix-dsig -f $ttf;
 	ttfautohint $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
+	gftools fix-hinting $ttf;
+	mv "$ttf.fix" $ttf;
 done
 
 echo "Post processing VFs"
