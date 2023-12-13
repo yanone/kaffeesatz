@@ -1,5 +1,5 @@
 {
-.appVersion = "1349";
+.appVersion = "3151";
 classes = (
 {
 automatic = 1;
@@ -7,16 +7,8 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright 2010 The Yanone Kaffeesatz Project Authors (https://github.com/alexeiva/yanone-kaffeesatz)";
+copyright = "Copyright 2010 The Yanone Kaffeesatz Project Authors (https://github.com/yanone/kaffeesatz)";
 customParameters = (
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
 {
 name = fsType;
 value = (
@@ -35,6 +27,14 @@ name = "Use Line Breaks";
 value = 1;
 },
 {
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
 name = Axes;
 value = (
 {
@@ -44,9 +44,9 @@ Tag = wght;
 );
 }
 );
-date = "2018-01-17 10:47:15 +0000";
+date = "2023-12-13 13:58:25 +0000";
 designer = "Yanone (Cyrillic: Daniel Pouzeot, Huerta Tipografica, and Cyreal)";
-designerURL = "http://yanone.de";
+designerURL = "https://yanone.de";
 familyName = "Yanone Kaffeesatz";
 featurePrefixes = (
 {
@@ -4580,9 +4580,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
+alignment = -1;
 name = periodcentered;
 transform = "{1, 0, 0, 1, 137, 53}";
 }
@@ -4593,9 +4595,11 @@ width = 353;
 {
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
+alignment = -1;
 name = periodcentered;
 transform = "{1, 0, 0, 1, 114, 58}";
 }
@@ -11451,9 +11455,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = d;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 160, -10}";
 }
@@ -11464,9 +11470,11 @@ width = 398;
 {
 components = (
 {
+alignment = -1;
 name = d;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 102, -10}";
 }
@@ -13942,9 +13950,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = periodcentered;
 transform = "{1, 0, 0, 1, 68, 0}";
 }
@@ -13955,9 +13965,11 @@ width = 164;
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = periodcentered;
 transform = "{1, 0, 0, 1, 113, 0}";
 }
@@ -16277,9 +16289,11 @@ width = 289;
 {
 components = (
 {
+alignment = -1;
 name = r;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, -16, 0}";
 }
@@ -24295,12 +24309,12 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 }
 );
@@ -24359,12 +24373,12 @@ width = 686;
 hints = (
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 }
 );
@@ -24787,12 +24801,12 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 }
 );
@@ -24844,12 +24858,12 @@ width = 521;
 hints = (
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 }
 );
@@ -25201,7 +25215,7 @@ width = 536;
 hints = (
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 }
 );
@@ -25919,12 +25933,12 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = "{-160, -2147483648}";
+place = "{-160, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{-160, -2147483648}";
+place = "{-160, 0}";
 type = Stem;
 }
 );
@@ -25984,12 +25998,12 @@ width = 408;
 hints = (
 {
 horizontal = 1;
-place = "{-2, -2147483648}";
+place = "{-2, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{-2, -2147483648}";
+place = "{-2, 0}";
 type = Stem;
 }
 );
@@ -26313,12 +26327,12 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 }
 );
@@ -26362,12 +26376,12 @@ width = 467;
 hints = (
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{0, -2147483648}";
+place = "{0, 0}";
 type = Stem;
 }
 );
@@ -26421,12 +26435,12 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = "{700, -2147483648}";
+place = "{700, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{700, -2147483648}";
+place = "{700, 0}";
 type = Stem;
 }
 );
@@ -26483,12 +26497,12 @@ width = 357;
 hints = (
 {
 horizontal = 1;
-place = "{700, -2147483648}";
+place = "{700, 0}";
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{700, -2147483648}";
+place = "{700, 0}";
 type = Stem;
 }
 );
@@ -30215,7 +30229,7 @@ position = "{169, 500}";
 hints = (
 {
 horizontal = 1;
-place = "{-16, -2147483648}";
+place = "{-16, 0}";
 type = Stem;
 }
 );
@@ -30264,7 +30278,7 @@ position = "{170, 500}";
 hints = (
 {
 horizontal = 1;
-place = "{-21, -2147483648}";
+place = "{-21, 0}";
 type = Stem;
 }
 );
@@ -50973,6 +50987,7 @@ position = "{125, 712}";
 );
 components = (
 {
+alignment = -1;
 name = grave;
 }
 );
@@ -51594,6 +51609,7 @@ position = "{125, -135}";
 );
 components = (
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 0, -749}";
 }
@@ -51614,6 +51630,7 @@ position = "{140, -239}";
 );
 components = (
 {
+alignment = -1;
 name = dotaccent;
 transform = "{0.8249, 0, 0, 0.8249, 25, -646}";
 }
@@ -51677,6 +51694,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 0, -274}";
 }
@@ -51687,6 +51705,7 @@ width = 250;
 {
 components = (
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 0, -258}";
 }
@@ -52639,6 +52658,7 @@ position = "{218, 912}";
 );
 components = (
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 93, 200}";
 }
@@ -52659,6 +52679,7 @@ position = "{229, 918}";
 );
 components = (
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 89, 200}";
 }
@@ -56714,7 +56735,7 @@ slash = -170;
 };
 };
 manufacturer = Yanone;
-manufacturerURL = "http://yanone.de";
+manufacturerURL = "https://yanone.de";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
@@ -56742,5 +56763,5 @@ oV = 123;
 };
 };
 versionMajor = 2;
-versionMinor = 2;
+versionMinor = 3;
 }
